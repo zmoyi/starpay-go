@@ -1,4 +1,4 @@
-# Pay Gateway Go SDK
+# StarPay Go SDK
 
 ## 安装
 
